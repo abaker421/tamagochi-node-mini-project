@@ -4,3 +4,6 @@ const dino = new Dinosaur('Tim', 'Stegosaurus')
 
 console.log(dino)
 
+dino.dayChange()
+
+console.log(dino)
