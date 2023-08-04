@@ -6,5 +6,8 @@ console.log(dino)
 
 dino.dayChange()
 dino.cleanPet()
+dino.feedPet()
+dino.feedPet()
+dino.feedPet()
 
 console.log(dino)
